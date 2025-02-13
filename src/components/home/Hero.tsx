@@ -19,7 +19,7 @@ export default function Hero() {
     }, 5000) // Ganti slide setiap 5 detik
 
     return () => clearInterval(timer)
-  }, [])
+  }, [currentSlide, slides.length])
 
   return (
     <section className="relative min-h-screen flex items-center">

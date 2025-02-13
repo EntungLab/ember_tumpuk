@@ -6,7 +6,7 @@ export default function Footer() {
             <div>
               <h3 className="text-xl font-bold mb-4">Kelompok 26 KPM UNSIQ Desa Purborejo</h3>
               <p className="text-gray-400">
-                PILKITA "Pilah Sampah Kita Semua"
+                PILKITA &ldquo;Pilah Sampah Kita Semua&rdquo;
               </p>
             </div>
             <div>
@@ -31,7 +31,7 @@ export default function Footer() {
             </div>
           </div>
           <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
-            <p>© 2024 Ember Tumpuk. Hak Cipta Dilindungi.</p>
+            <p>© 2024 Ember &ldquo;Tumpuk&rdquo;. Hak Cipta Dilindungi.</p>
           </div>
         </div>
       </footer>
